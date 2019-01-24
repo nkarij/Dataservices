@@ -1,5 +1,12 @@
 {
     "fornavn": "bamse",
     "alder": 40,
-    "erTyk": true
+    "erTyk": true,
+    "bil": {
+        "topHastighed": 3
+    },
+    "yndlingsfilm": [
+        "gremlins", 
+        "Aliens"
+    ]
 }
