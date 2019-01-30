@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let data1;
     let data2;
     let data3;
-
+// her har jeg hentet API-json og sat det i en lokal json-fil, for at skåne serveren
     fetch("data/exchange.json")
     // mellem-then() skal altid skrives på denne/samme måde
     .then((response)=>{
